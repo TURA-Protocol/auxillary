@@ -55,19 +55,6 @@ This repository contains the auxiliary smart contracts and utilities that suppor
 
 - Tools for simulating arbitrage opportunities and risk scenarios
 
-## Installation
-
-1. Clone this repository:
-git clone https://github.com/TURA-protocol/tura-auxiliary.git
-Copy
-2. Install dependencies:
-npm install
-Copy
-## Testing
-
-Run the test suite:
-npm run test
-Copy
 ## Usage
 
 Each component in this repository is designed to work seamlessly with the TURA core contracts. Refer to individual component documentation for specific usage instructions.
@@ -89,15 +76,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Integration with TURA Core
 
-This auxiliary repository is designed to work in tandem with the [TURA Core repository](https://github.com/TURA-protocol/tura-core). Ensure you have the latest version of both repositories when working on the TURA protocol.
-
-## Documentation
-
-For detailed documentation on each component, please visit our [official documentation site](https://docs.tura-protocol.com).
-
-## Contact
-
-For any queries related to the auxiliary components or support, please reach out to us at auxiliary@tura-protocol.com or join our [Discord community](https://discord.gg/turaprotocol).
+This auxiliary repository is designed to work in tandem with the [TURA Core repository](https://github.com/TURA-protocol/core). Ensure you have the latest version of both repositories when working on the TURA protocol.
 
 ## Disclaimer
 
