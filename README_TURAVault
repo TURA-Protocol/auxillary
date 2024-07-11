@@ -1,0 +1,17 @@
+# TURAVault
+
+TURAVault is responsible for managing user deposits and withdrawals of TURA tokens.
+
+## Features
+
+- Secure deposit and withdrawal of TURA tokens
+- Tracking of user balances
+
+## Key Functions
+
+- `deposit`: Deposit TURA tokens into the vault
+- `withdraw`: Withdraw TURA tokens from the vault
+
+## Usage
+
+Users interact with the TURAVault contract to deposit TURA tokens for use in the protocol and withdraw their tokens when needed. The vault ensures secure management of user funds and provides a foundation for more advanced features like staking and reward distribution.
